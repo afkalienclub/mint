@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdDc6286348536759b47aC535cD52B350c69Ddf09",
+  "SCAN_LINK": "https://etherscan.io/address/0xddc6286348536759b47ac535cd52b350c69ddf09",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AFK Alien",
+  "SYMBOL": "Alien",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/afka",
+  "SHOW_BACKGROUND": true
+}
